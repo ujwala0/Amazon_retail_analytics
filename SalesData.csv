@@ -1,0 +1,501 @@
+﻿Order_ID,Date,Customer_Name,Product,Category,State,Seller,Payment_Method,Sales,Quantity,Rating,Delivery,Month
+ORD10001,21/05/2025,Rohit,Shampoo,Beauty,Karnataka,BookWorld,Cash,3028,4,4.3,1,May
+ORD10002,15/10/2025,Kavya,Chair,Home,Gujrat,TechStore,Net Banking,32636,4,4.3,1,Oct
+ORD10003,21/04/2025,Neha,iPhone 15,Electronics,Gujrat,TechStore,Card,313782,6,4.7,5,Apr
+ORD10004,10/10/2025,Rahul,Shoes,Fashion,Karnataka,BookWorld,Card,11375,5,3.3,4,Oct
+ORD10005,21/08/2025,Akash,Jeans,Fashion,Gujrat,BookWorld,Cash,14496,6,3.7,2,Aug
+ORD10006,14/07/2025,Anjali,Business Book,Books,Telangana,BeautyCare,Cash,5745,5,4.7,6,Jul
+ORD10007,19/04/2025,Divya,Bedsheet,Home,Maharashtra,TechStore,Net Banking,24696,8,3.6,5,Apr
+ORD10008,18/09/2025,Akash,Python Book,Books,Karnataka,TechStore,UPI,3536,8,3.5,7,Sep
+ORD10009,28/09/2025,Arjun,Lamp,Home,Telangana,TechStore,Cash,25855,5,4.6,6,Sep
+ORD10010,15/05/2025,Ali,Shoes,Fashion,Telangana,BookWorld,Card,9432,3,4.1,4,May
+ORD10011,08/09/2025,Vikas,Bedsheet,Home,Gujrat,TechStore,Card,1749,1,3.6,2,Sep
+ORD10012,07/03/2025,Naveen,Mixer,Home,Gujrat,BookWorld,Net Banking,85904,8,4,4,Mar
+ORD10013,13/08/2025,Divya,Jeans,Fashion,Delhi,BeautyCare,Card,9792,8,3.2,4,Aug
+ORD10014,04/02/2025,Naveen,Perfume,Beauty,Delhi,TechStore,Cash,976,1,4.4,4,Feb
+ORD10015,08/04/2025,Arjun,Watch,Fashion,Karnataka,TechStore,Net Banking,8338,2,4,1,Apr
+ORD10016,09/04/2025,Vikas,Perfume,Beauty,Maharashtra,BeautyCare,Card,5592,4,3.7,4,Apr
+ORD10017,17/02/2025,Kavya,Chair,Home,Maharashtra,BeautyCare,UPI,17208,4,4.8,1,Feb
+ORD10018,27/05/2025,Divya,AirPods Pro,Electronics,Gujrat,BeautyCare,Net Banking,159523,7,3.6,1,May
+ORD10019,27/10/2025,Vikas,Shampoo,Beauty,Tamil Nadu,BeautyCare,Cash,10632,8,3.3,3,Oct
+ORD10020,19/10/2025,Priya,Shoes,Fashion,Tamil Nadu,HomeMart,Cash,5484,4,4.4,6,Oct
+ORD10021,09/03/2025,Vikas,AirPods Pro,Electronics,Tamil Nadu,BookWorld,Net Banking,60040,5,4.3,2,Mar
+ORD10022,05/02/2025,Naveen,Cookbook,Books,Telangana,BeautyCare,Cash,5668,4,4.5,1,Feb
+ORD10023,24/02/2025,Pooja,Laptop,Electronics,Maharashtra,HomeMart,Card,245328,3,3.6,5,Feb
+ORD10024,22/05/2025,Naveen,Lipstick,Beauty,Gujrat,TechStore,Card,307,1,3.5,8,May
+ORD10025,20/12/2025,Neha,Shampoo,Beauty,Telangana,HomeMart,Card,4251,3,3.5,3,Dec
+ORD10026,16/12/2025,Aman,iPhone 15,Electronics,Delhi,BookWorld,UPI,195428,4,5,3,Dec
+ORD10027,20/06/2025,Sanjay,Perfume,Beauty,Delhi,BookWorld,UPI,11697,7,3.9,1,Jun
+ORD10028,27/04/2025,Kiran,MacBook Air,Electronics,Gujrat,TechStore,Net Banking,218908,4,4.8,5,Apr
+ORD10029,14/05/2025,Vijay,Shampoo,Beauty,Tamil Nadu,BeautyCare,UPI,4467,3,4,6,May
+ORD10030,11/05/2025,Kiran,Mixer,Home,Maharashtra,BeautyCare,Net Banking,9621,1,4.4,4,May
+ORD10031,06/12/2025,Rahul,Bedsheet,Home,Tamil Nadu,BookWorld,Cash,23452,2,3.9,7,Dec
+ORD10032,13/12/2025,Vijay,Watch,Fashion,Tamil Nadu,HomeMart,UPI,15564,3,3.7,4,Dec
+ORD10033,12/12/2025,Vikas,Watch,Fashion,Delhi,HomeMart,Cash,5576,4,4.1,6,Dec
+ORD10034,13/01/2025,Anjali,Python Book,Books,Maharashtra,TechStore,Cash,2196,1,3.9,4,Jan
+ORD10035,24/02/2025,Meena,Novel,Books,Delhi,TechStore,Net Banking,6790,7,4.2,2,Feb
+ORD10036,08/10/2025,Pooja,Watch,Fashion,Maharashtra,BookWorld,Net Banking,22584,8,4.7,5,Oct
+ORD10037,27/05/2025,Anjali,Shoes,Fashion,Gujrat,BookWorld,Cash,20496,4,3.4,4,May
+ORD10038,28/07/2025,Divya,Lipstick,Beauty,Gujrat,BeautyCare,UPI,8466,6,4.7,7,Jul
+ORD10039,30/06/2025,Aman,Shoes,Fashion,Telangana,TechStore,UPI,25865,5,4.8,8,Jun
+ORD10040,22/06/2025,Divya,Lipstick,Beauty,Tamil Nadu,BeautyCare,Card,12481,7,4.2,7,Jun
+ORD10041,25/08/2025,Anjali,T-Shirt,Fashion,Telangana,TechStore,Net Banking,10143,3,4,6,Aug
+ORD10042,10/01/2025,Rohit,Lipstick,Beauty,Tamil Nadu,BookWorld,Cash,1016,1,4.9,4,Jan
+ORD10043,09/12/2025,Kavya,Business Book,Books,Telangana,BeautyCare,Card,2284,2,3.5,2,Dec
+ORD10044,13/12/2025,Akash,Sony Headphones,Electronics,Karnataka,BeautyCare,Net Banking,87227,7,3.6,5,Dec
+ORD10045,05/12/2025,Vijay,Lamp,Home,Telangana,TechStore,Cash,46092,6,4.7,2,Dec
+ORD10046,25/09/2025,Sneha,T-Shirt,Fashion,Delhi,BeautyCare,Net Banking,22540,5,4.7,5,Sep
+ORD10047,26/08/2025,Priya,T-Shirt,Fashion,Telangana,HomeMart,Net Banking,23534,7,4.1,6,Aug
+ORD10048,22/09/2025,Sanjay,Chair,Home,Maharashtra,BeautyCare,Card,39584,4,4.6,8,Sep
+ORD10049,27/07/2025,Kiran,iPhone 15,Electronics,Gujrat,TechStore,Net Banking,258124,4,3.8,6,Jul
+ORD10050,29/04/2025,Ria,MacBook Air,Electronics,Delhi,TechStore,Net Banking,87718,2,4.9,3,Apr
+ORD10051,21/02/2025,Priya,Bedsheet,Home,Karnataka,BeautyCare,Net Banking,23008,4,3.2,3,Feb
+ORD10052,22/02/2025,Priya,Business Book,Books,Maharashtra,BeautyCare,Card,1414,1,3.8,1,Feb
+ORD10053,07/02/2025,Naveen,Watch,Fashion,Maharashtra,BookWorld,UPI,3189,1,5,2,Feb
+ORD10054,02/06/2025,Vikas,Watch,Fashion,Delhi,BookWorld,Cash,10584,7,4.3,5,Jun
+ORD10055,22/03/2025,Rahul,Chair,Home,Gujrat,TechStore,Card,5571,1,3.3,5,Mar
+ORD10056,17/11/2025,Ali,Cookbook,Books,Karnataka,BeautyCare,Cash,2880,4,3.5,5,Nov
+ORD10057,19/10/2025,Meena,Sony Headphones,Electronics,Karnataka,BeautyCare,UPI,319665,5,4.9,8,Oct
+ORD10058,09/05/2025,Divya,Sony Headphones,Electronics,Karnataka,BookWorld,UPI,77892,1,5,5,May
+ORD10059,23/05/2025,Sneha,Lamp,Home,Gujrat,BeautyCare,Cash,25500,3,3.8,6,May
+ORD10060,22/12/2025,Sneha,AirPods Pro,Electronics,Karnataka,TechStore,Card,596816,8,3.4,5,Dec
+ORD10061,31/07/2025,Ria,Lamp,Home,Telangana,BookWorld,Net Banking,8967,1,4.3,1,Jul
+ORD10062,04/03/2025,Vikas,Watch,Fashion,Delhi,BeautyCare,UPI,3245,1,3.2,7,Mar
+ORD10063,13/09/2025,Anjali,Perfume,Beauty,Delhi,BookWorld,Card,6710,5,3.6,3,Sep
+ORD10064,24/06/2025,Ali,AirPods Pro,Electronics,Maharashtra,TechStore,Net Banking,208160,5,5,8,Jun
+ORD10065,06/10/2025,Neha,Sony Headphones,Electronics,Telangana,TechStore,UPI,190589,7,3.9,7,Oct
+ORD10066,11/09/2025,Arjun,T-Shirt,Fashion,Tamil Nadu,TechStore,Card,3419,1,4.8,8,Sep
+ORD10067,02/12/2025,Sneha,Business Book,Books,Gujrat,TechStore,Net Banking,6519,3,4.4,2,Dec
+ORD10068,13/11/2025,Meena,Shoes,Fashion,Delhi,HomeMart,Card,2880,2,5,2,Nov
+ORD10069,29/01/2025,Kavya,Face Wash,Beauty,Delhi,BeautyCare,UPI,5170,5,4.2,3,Jan
+ORD10070,12/09/2025,Rahul,Mixer,Home,Gujrat,BookWorld,Card,14949,3,4.4,8,Sep
+ORD10071,28/10/2025,Sanjay,Jeans,Fashion,Karnataka,BookWorld,UPI,22210,5,3.6,7,Oct
+ORD10072,22/10/2025,Akash,Bedsheet,Home,Gujrat,TechStore,Net Banking,26485,5,3.2,1,Oct
+ORD10073,23/04/2025,Rahul,Cookbook,Books,Maharashtra,BeautyCare,Net Banking,5104,4,4.8,1,Apr
+ORD10074,01/06/2025,Pooja,Novel,Books,Tamil Nadu,HomeMart,Cash,5814,6,4.8,6,Jun
+ORD10075,01/06/2025,Naveen,AirPods Pro,Electronics,Telangana,BeautyCare,UPI,74214,6,4.7,7,Jun
+ORD10076,02/10/2025,Arjun,Face Wash,Beauty,Gujrat,BookWorld,UPI,2462,2,4.7,6,Oct
+ORD10077,09/11/2025,Neha,Face Wash,Beauty,Karnataka,HomeMart,UPI,6504,4,3.9,3,Nov
+ORD10078,01/05/2025,Vijay,Shampoo,Beauty,Gujrat,BeautyCare,UPI,3285,3,4.3,3,May
+ORD10079,24/05/2025,Arjun,Lamp,Home,Gujrat,HomeMart,Net Banking,8085,1,4.9,6,May
+ORD10080,22/05/2025,Neha,Lipstick,Beauty,Telangana,BookWorld,Cash,2200,4,4.4,1,May
+ORD10081,05/02/2025,Priya,Mixer,Home,Delhi,BookWorld,Net Banking,12868,4,4.6,1,Feb
+ORD10082,05/12/2025,Priya,Novel,Books,Karnataka,BookWorld,UPI,310,1,3.8,3,Dec
+ORD10083,02/02/2025,Akash,Chair,Home,Karnataka,HomeMart,UPI,20688,8,4,4,Feb
+ORD10084,03/09/2025,Akash,Shampoo,Beauty,Delhi,BeautyCare,Cash,8211,7,4.8,6,Sep
+ORD10085,21/11/2025,Arjun,Sony Headphones,Electronics,Gujrat,BookWorld,UPI,246912,6,4.3,2,Nov
+ORD10086,31/07/2025,Kiran,T-Shirt,Fashion,Delhi,TechStore,Card,8868,6,4,5,Jul
+ORD10087,17/02/2025,Arjun,Shampoo,Beauty,Maharashtra,HomeMart,UPI,3479,7,4.3,6,Feb
+ORD10088,04/11/2025,Aman,Face Wash,Beauty,Karnataka,HomeMart,Net Banking,5100,5,3.5,8,Nov
+ORD10089,21/10/2025,Sneha,Face Wash,Beauty,Telangana,BeautyCare,Cash,4712,4,3.5,5,Oct
+ORD10090,05/02/2025,Sneha,Business Book,Books,Delhi,HomeMart,Net Banking,1125,3,3.9,8,Feb
+ORD10091,02/11/2025,Meena,Sony Headphones,Electronics,Gujrat,TechStore,UPI,46264,2,4.4,5,Nov
+ORD10092,01/08/2025,Pooja,Lamp,Home,Gujrat,HomeMart,Card,39215,5,3.4,8,Aug
+ORD10093,03/11/2025,Sneha,Business Book,Books,Karnataka,BeautyCare,UPI,1087,1,4.6,5,Nov
+ORD10094,08/03/2025,Anjali,T-Shirt,Fashion,Gujrat,BeautyCare,UPI,36939,7,4.7,2,Mar
+ORD10095,09/02/2025,Anjali,Lipstick,Beauty,Karnataka,HomeMart,Cash,8874,6,4,2,Feb
+ORD10096,20/12/2025,Anjali,Lamp,Home,Telangana,HomeMart,Cash,47628,6,4.3,2,Dec
+ORD10097,09/02/2025,Aman,iPhone 15,Electronics,Karnataka,BookWorld,Net Banking,55830,2,4.5,3,Feb
+ORD10098,05/11/2025,Divya,Python Book,Books,Gujrat,HomeMart,Net Banking,1674,3,4,8,Nov
+ORD10099,04/02/2025,Rahul,Business Book,Books,Maharashtra,TechStore,Card,11920,8,3.8,2,Feb
+ORD10100,27/05/2025,Meena,Face Wash,Beauty,Tamil Nadu,BookWorld,Net Banking,3240,2,3.9,1,May
+ORD10101,14/09/2025,Neha,Lamp,Home,Delhi,TechStore,UPI,6543,3,4.1,3,Sep
+ORD10102,06/07/2025,Vikas,Mixer,Home,Telangana,BeautyCare,UPI,71538,6,4.3,6,Jul
+ORD10103,03/12/2025,Ali,MacBook Air,Electronics,Tamil Nadu,BeautyCare,Net Banking,236640,3,3.8,7,Dec
+ORD10104,26/11/2025,Rohit,Lamp,Home,Telangana,HomeMart,Cash,70704,6,4,6,Nov
+ORD10105,06/09/2025,Pooja,Cookbook,Books,Tamil Nadu,BeautyCare,Net Banking,3252,4,4.7,2,Sep
+ORD10106,02/11/2025,Vijay,Mixer,Home,Telangana,BookWorld,UPI,24584,7,4.5,1,Nov
+ORD10107,18/08/2025,Meena,Bedsheet,Home,Telangana,TechStore,UPI,15912,4,3.9,8,Aug
+ORD10108,06/11/2025,Rahul,Python Book,Books,Karnataka,BookWorld,Net Banking,1389,3,4.9,2,Nov
+ORD10109,12/08/2025,Aman,T-Shirt,Fashion,Maharashtra,BeautyCare,Net Banking,1836,2,3.3,6,Aug
+ORD10110,13/06/2025,Ali,Novel,Books,Gujrat,TechStore,UPI,3246,2,3.7,8,Jun
+ORD10111,10/02/2025,Rahul,Chair,Home,Delhi,HomeMart,Card,10775,1,4.1,2,Feb
+ORD10112,03/08/2025,Ali,Perfume,Beauty,Telangana,TechStore,Card,3424,8,3.2,4,Aug
+ORD10113,04/05/2025,Anjali,Bedsheet,Home,Maharashtra,BeautyCare,UPI,13356,7,4.9,1,May
+ORD10114,09/01/2025,Ali,MacBook Air,Electronics,Karnataka,HomeMart,Net Banking,204624,6,4.6,6,Jan
+ORD10115,23/12/2025,Neha,Business Book,Books,Delhi,BeautyCare,Net Banking,7968,8,3.3,4,Dec
+ORD10116,23/07/2025,Sneha,Sony Headphones,Electronics,Telangana,BeautyCare,Net Banking,220384,8,4.8,1,Jul
+ORD10117,14/08/2025,Vikas,Watch,Fashion,Gujrat,TechStore,Card,33425,7,4.9,5,Aug
+ORD10118,07/10/2025,Akash,T-Shirt,Fashion,Gujrat,TechStore,Cash,16930,5,3.7,8,Oct
+ORD10119,17/08/2025,Vikas,Jeans,Fashion,Gujrat,TechStore,Net Banking,4263,1,4.4,1,Aug
+ORD10120,16/01/2025,Kiran,Mixer,Home,Maharashtra,BeautyCare,Cash,5703,3,3.6,6,Jan
+ORD10121,10/07/2025,Aman,Jeans,Fashion,Karnataka,BeautyCare,Cash,29648,8,3.8,5,Jul
+ORD10122,15/10/2025,Ria,Watch,Fashion,Karnataka,BookWorld,Card,4914,2,3.7,8,Oct
+ORD10123,16/08/2025,Kavya,T-Shirt,Fashion,Gujrat,BookWorld,Net Banking,2462,2,4.2,5,Aug
+ORD10124,04/03/2025,Meena,Mixer,Home,Tamil Nadu,BookWorld,Card,26848,4,4.2,6,Mar
+ORD10125,23/07/2025,Vikas,Face Wash,Beauty,Maharashtra,TechStore,Net Banking,11008,8,3.4,6,Jul
+ORD10126,08/03/2025,Sneha,Python Book,Books,Gujrat,BookWorld,Net Banking,3332,7,3.7,3,Mar
+ORD10127,10/02/2025,Pooja,Bedsheet,Home,Gujrat,BookWorld,Cash,28805,5,4.3,2,Feb
+ORD10128,16/10/2025,Divya,Cookbook,Books,Maharashtra,BeautyCare,UPI,582,1,3.7,4,Oct
+ORD10129,25/11/2025,Kavya,Bedsheet,Home,Maharashtra,TechStore,UPI,41150,5,3.3,1,Nov
+ORD10130,24/06/2025,Sneha,T-Shirt,Fashion,Delhi,TechStore,Card,11898,3,4.6,2,Jun
+ORD10131,07/05/2025,Sneha,AirPods Pro,Electronics,Tamil Nadu,HomeMart,Cash,121614,3,4,3,May
+ORD10132,21/09/2025,Aman,Business Book,Books,Delhi,HomeMart,Card,12104,8,4.9,8,Sep
+ORD10133,11/09/2025,Kiran,Face Wash,Beauty,Maharashtra,HomeMart,Card,7080,8,3.4,5,Sep
+ORD10134,19/10/2025,Akash,Shoes,Fashion,Gujrat,BeautyCare,Cash,15456,4,4,5,Oct
+ORD10135,11/07/2025,Neha,Lipstick,Beauty,Karnataka,BookWorld,Net Banking,8652,6,4.1,1,Jul
+ORD10136,18/03/2025,Divya,Watch,Fashion,Telangana,TechStore,Net Banking,11757,3,4.5,5,Mar
+ORD10137,08/07/2025,Akash,Shoes,Fashion,Maharashtra,HomeMart,Cash,32886,6,4.6,1,Jul
+ORD10138,29/03/2025,Sneha,Lipstick,Beauty,Maharashtra,BookWorld,UPI,4214,7,3.5,8,Mar
+ORD10139,14/09/2025,Pooja,Business Book,Books,Maharashtra,HomeMart,Cash,4040,8,4.2,8,Sep
+ORD10140,07/10/2025,Naveen,Jeans,Fashion,Telangana,BookWorld,Net Banking,27996,6,4.9,5,Oct
+ORD10141,20/12/2025,Anjali,iPhone 15,Electronics,Telangana,BookWorld,Net Banking,385744,8,3.7,7,Dec
+ORD10142,10/02/2025,Naveen,Face Wash,Beauty,Gujrat,HomeMart,Cash,7230,6,4.7,5,Feb
+ORD10143,05/05/2025,Sneha,Perfume,Beauty,Gujrat,TechStore,Card,1671,1,3.3,7,May
+ORD10144,09/10/2025,Vikas,Novel,Books,Gujrat,BookWorld,Card,6594,3,3.8,1,Oct
+ORD10145,01/04/2025,Sneha,Business Book,Books,Telangana,TechStore,UPI,2279,1,3.2,2,Apr
+ORD10146,20/05/2025,Rohit,Business Book,Books,Gujrat,HomeMart,Net Banking,6416,4,3.7,3,May
+ORD10147,31/03/2025,Ali,Mixer,Home,Maharashtra,HomeMart,Cash,51569,7,4.4,3,Mar
+ORD10148,16/07/2025,Priya,Face Wash,Beauty,Gujrat,HomeMart,Cash,4856,4,4.5,1,Jul
+ORD10149,27/08/2025,Kiran,Shampoo,Beauty,Tamil Nadu,BookWorld,Cash,3135,5,4.3,5,Aug
+ORD10150,20/03/2025,Aman,Business Book,Books,Gujrat,BeautyCare,UPI,14240,8,4.6,4,Mar
+ORD10151,09/02/2025,Sneha,Bedsheet,Home,Tamil Nadu,TechStore,Card,20366,2,4.2,3,Feb
+ORD10152,16/02/2025,Naveen,Business Book,Books,Maharashtra,HomeMart,Card,16856,8,4,1,Feb
+ORD10153,02/01/2025,Vikas,Jeans,Fashion,Maharashtra,BeautyCare,Net Banking,16680,4,4.5,1,Jan
+ORD10154,11/03/2025,Kiran,T-Shirt,Fashion,Karnataka,BookWorld,UPI,26544,7,3.3,3,Mar
+ORD10155,25/04/2025,Aman,Mixer,Home,Maharashtra,HomeMart,Cash,7748,1,4.2,4,Apr
+ORD10156,27/02/2025,Akash,iPhone 15,Electronics,Karnataka,TechStore,Card,83099,1,3.6,2,Feb
+ORD10157,25/07/2025,Aman,Novel,Books,Gujrat,HomeMart,Net Banking,19680,8,4.1,5,Jul
+ORD10158,15/03/2025,Vijay,Cookbook,Books,Tamil Nadu,TechStore,Card,5920,4,4.9,3,Mar
+ORD10159,26/09/2025,Aman,AirPods Pro,Electronics,Delhi,HomeMart,Cash,336066,6,3.9,8,Sep
+ORD10160,15/10/2025,Vikas,Shoes,Fashion,Maharashtra,HomeMart,Card,27167,7,3.7,6,Oct
+ORD10161,27/01/2025,Sanjay,Mixer,Home,Delhi,HomeMart,Net Banking,52130,5,4.5,4,Jan
+ORD10162,08/04/2025,Rahul,Perfume,Beauty,Maharashtra,TechStore,Net Banking,2560,2,4.8,6,Apr
+ORD10163,04/07/2025,Neha,MacBook Air,Electronics,Tamil Nadu,BookWorld,Cash,512296,8,3.9,7,Jul
+ORD10164,11/10/2025,Sanjay,Face Wash,Beauty,Tamil Nadu,HomeMart,Net Banking,6328,7,3.9,4,Oct
+ORD10165,24/08/2025,Pooja,Watch,Fashion,Karnataka,BeautyCare,Card,5538,3,4.1,1,Aug
+ORD10166,12/03/2025,Akash,Lipstick,Beauty,Gujrat,TechStore,UPI,1756,4,4,1,Mar
+ORD10167,30/09/2025,Pooja,Shampoo,Beauty,Gujrat,TechStore,Cash,2268,7,5,1,Sep
+ORD10168,26/09/2025,Anjali,Shampoo,Beauty,Karnataka,HomeMart,UPI,2379,3,4.7,5,Sep
+ORD10169,23/12/2025,Neha,T-Shirt,Fashion,Gujrat,BeautyCare,Cash,5860,4,3.9,8,Dec
+ORD10170,11/08/2025,Priya,Lipstick,Beauty,Karnataka,BeautyCare,Net Banking,8748,6,3.6,8,Aug
+ORD10171,02/04/2025,Kavya,Chair,Home,Tamil Nadu,BookWorld,UPI,43950,6,4.9,5,Apr
+ORD10172,16/07/2025,Vikas,Bedsheet,Home,Telangana,TechStore,Net Banking,5037,3,3.4,4,Jul
+ORD10173,19/08/2025,Vikas,Face Wash,Beauty,Tamil Nadu,HomeMart,Cash,6136,8,3.5,7,Aug
+ORD10174,18/05/2025,Rahul,Shampoo,Beauty,Maharashtra,HomeMart,Net Banking,3234,3,3.4,1,May
+ORD10175,14/02/2025,Vikas,Perfume,Beauty,Telangana,BeautyCare,Net Banking,3546,3,3.9,1,Feb
+ORD10176,30/05/2025,Kavya,Shoes,Fashion,Delhi,HomeMart,Net Banking,18816,7,4.1,7,May
+ORD10177,16/03/2025,Kiran,AirPods Pro,Electronics,Telangana,BookWorld,UPI,77340,2,4.1,2,Mar
+ORD10178,23/08/2025,Sneha,Mixer,Home,Maharashtra,HomeMart,UPI,12486,2,4.7,7,Aug
+ORD10179,03/06/2025,Rahul,Mixer,Home,Gujrat,TechStore,Cash,22260,6,4.9,6,Jun
+ORD10180,24/05/2025,Naveen,AirPods Pro,Electronics,Karnataka,TechStore,Cash,534835,7,5,3,May
+ORD10181,21/12/2025,Vijay,Jeans,Fashion,Maharashtra,BeautyCare,UPI,11776,2,3.6,3,Dec
+ORD10182,26/10/2025,Naveen,Lamp,Home,Tamil Nadu,BeautyCare,Card,9814,7,4.6,6,Oct
+ORD10183,27/03/2025,Aman,Cookbook,Books,Tamil Nadu,BookWorld,UPI,1886,1,3.2,5,Mar
+ORD10184,26/08/2025,Arjun,AirPods Pro,Electronics,Gujrat,BookWorld,Net Banking,197331,3,3.9,2,Aug
+ORD10185,22/08/2025,Sneha,MacBook Air,Electronics,Karnataka,HomeMart,Card,192608,4,4,8,Aug
+ORD10186,25/06/2025,Naveen,Shampoo,Beauty,Maharashtra,TechStore,Cash,3372,2,4.2,6,Jun
+ORD10187,06/04/2025,Rohit,T-Shirt,Fashion,Gujrat,BookWorld,Cash,16212,7,4.3,7,Apr
+ORD10188,23/10/2025,Sanjay,Laptop,Electronics,Tamil Nadu,HomeMart,UPI,100890,2,4,5,Oct
+ORD10189,28/10/2025,Akash,Lamp,Home,Tamil Nadu,BeautyCare,Cash,7252,2,4.7,5,Oct
+ORD10190,03/05/2025,Divya,Laptop,Electronics,Maharashtra,TechStore,Cash,257145,5,3.9,3,May
+ORD10191,12/10/2025,Kiran,T-Shirt,Fashion,Karnataka,TechStore,Cash,6696,3,4.7,1,Oct
+ORD10192,15/10/2025,Aman,Business Book,Books,Telangana,BeautyCare,Net Banking,18112,8,3.5,1,Oct
+ORD10193,28/03/2025,Naveen,Cookbook,Books,Telangana,BeautyCare,UPI,18224,8,4.2,5,Mar
+ORD10194,06/08/2025,Meena,Mixer,Home,Karnataka,BookWorld,Cash,16336,2,3.7,2,Aug
+ORD10195,30/12/2025,Akash,Bedsheet,Home,Tamil Nadu,BookWorld,Net Banking,12404,7,4.2,5,Dec
+ORD10196,21/10/2025,Ali,MacBook Air,Electronics,Delhi,BookWorld,Net Banking,101355,5,5,3,Oct
+ORD10197,08/09/2025,Anjali,Business Book,Books,Tamil Nadu,HomeMart,Net Banking,4050,3,4,2,Sep
+ORD10198,17/06/2025,Naveen,Watch,Fashion,Maharashtra,BookWorld,UPI,5900,1,4.5,2,Jun
+ORD10199,18/05/2025,Sneha,Business Book,Books,Gujrat,BeautyCare,Card,9798,6,4.2,8,May
+ORD10200,09/01/2025,Rahul,Lipstick,Beauty,Delhi,HomeMart,Card,1246,2,3.6,3,Jan
+ORD10201,12/02/2025,Vijay,MacBook Air,Electronics,Gujrat,BeautyCare,Card,55722,6,3.7,4,Feb
+ORD10202,02/09/2025,Arjun,Perfume,Beauty,Maharashtra,BookWorld,UPI,1142,2,3.2,6,Sep
+ORD10203,16/07/2025,Anjali,Perfume,Beauty,Delhi,BookWorld,Card,3592,2,4.8,3,Jul
+ORD10204,09/11/2025,Ria,Chair,Home,Karnataka,BeautyCare,Cash,9840,3,4.9,8,Nov
+ORD10205,29/06/2025,Rohit,Lipstick,Beauty,Gujrat,HomeMart,Cash,6608,7,3.4,5,Jun
+ORD10206,20/07/2025,Akash,Mixer,Home,Karnataka,BeautyCare,Net Banking,35610,5,3.4,8,Jul
+ORD10207,18/07/2025,Rohit,iPhone 15,Electronics,Telangana,BookWorld,Card,176015,7,3.2,2,Jul
+ORD10208,17/09/2025,Priya,Lipstick,Beauty,Karnataka,HomeMart,Card,7935,5,3.3,3,Sep
+ORD10209,21/03/2025,Vijay,Mixer,Home,Karnataka,TechStore,Card,28254,6,3.3,2,Mar
+ORD10210,03/03/2025,Kavya,iPhone 15,Electronics,Telangana,BookWorld,Net Banking,3987,1,4.9,5,Mar
+ORD10211,21/06/2025,Meena,Shampoo,Beauty,Tamil Nadu,HomeMart,Card,5999,7,4.3,8,Jun
+ORD10212,08/07/2025,Neha,T-Shirt,Fashion,Karnataka,BookWorld,Card,4932,3,4.5,1,Jul
+ORD10213,16/07/2025,Sneha,Jeans,Fashion,Telangana,BeautyCare,Net Banking,12405,3,3.8,7,Jul
+ORD10214,02/04/2025,Sneha,Shampoo,Beauty,Karnataka,TechStore,Card,5424,4,4.8,5,Apr
+ORD10215,30/05/2025,Naveen,iPhone 15,Electronics,Delhi,BookWorld,Card,316535,5,4.9,4,May
+ORD10216,30/04/2025,Arjun,Shoes,Fashion,Delhi,BookWorld,UPI,4266,6,3.9,5,Apr
+ORD10217,14/03/2025,Meena,Shoes,Fashion,Gujrat,BeautyCare,Card,24785,5,4.5,6,Mar
+ORD10218,23/11/2025,Anjali,Mixer,Home,Gujrat,HomeMart,Net Banking,32753,7,3.7,6,Nov
+ORD10219,30/04/2025,Meena,Jeans,Fashion,Telangana,TechStore,Card,3184,2,3.4,8,Apr
+ORD10220,17/04/2025,Akash,Bedsheet,Home,Karnataka,BookWorld,Net Banking,18248,8,3.5,5,Apr
+ORD10221,31/12/2025,Rohit,Novel,Books,Maharashtra,TechStore,Cash,7492,4,3.7,3,Dec
+ORD10222,22/02/2025,Kiran,Lipstick,Beauty,Gujrat,BeautyCare,Net Banking,1644,3,3.6,7,Feb
+ORD10223,03/02/2025,Neha,Shampoo,Beauty,Delhi,TechStore,UPI,6488,4,3.4,8,Feb
+ORD10224,15/07/2025,Neha,Shoes,Fashion,Tamil Nadu,BookWorld,Net Banking,15631,7,3.7,3,Jul
+ORD10225,09/10/2025,Naveen,Watch,Fashion,Karnataka,TechStore,Net Banking,30696,8,4,4,Oct
+ORD10226,26/06/2025,Priya,Watch,Fashion,Karnataka,TechStore,Net Banking,5478,6,4.3,1,Jun
+ORD10227,23/03/2025,Divya,Mixer,Home,Maharashtra,HomeMart,Cash,3432,2,4.6,4,Mar
+ORD10228,31/10/2025,Divya,Python Book,Books,Delhi,TechStore,Net Banking,10314,6,4.9,3,Oct
+ORD10229,20/01/2025,Sneha,Business Book,Books,Tamil Nadu,BookWorld,Cash,2404,2,4.1,1,Jan
+ORD10230,15/06/2025,Vikas,iPhone 15,Electronics,Telangana,TechStore,Card,79388,1,4.7,6,Jun
+ORD10231,15/06/2025,Aman,MacBook Air,Electronics,Gujrat,BookWorld,UPI,199074,3,4.5,6,Jun
+ORD10232,07/03/2025,Akash,MacBook Air,Electronics,Delhi,BeautyCare,UPI,232746,3,3.3,6,Mar
+ORD10233,09/02/2025,Meena,Cookbook,Books,Karnataka,HomeMart,Cash,6232,4,4.7,6,Feb
+ORD10234,29/06/2025,Vijay,Novel,Books,Maharashtra,TechStore,Net Banking,1275,5,4.5,3,Jun
+ORD10235,21/02/2025,Rahul,Lamp,Home,Karnataka,HomeMart,Net Banking,16056,8,4.6,1,Feb
+ORD10236,25/06/2025,Rohit,Shampoo,Beauty,Maharashtra,BookWorld,UPI,3204,3,3.8,8,Jun
+ORD10237,21/02/2025,Rahul,Novel,Books,Delhi,BeautyCare,Card,6168,6,3.7,5,Feb
+ORD10238,20/03/2025,Ria,Watch,Fashion,Karnataka,BeautyCare,Cash,1417,1,4.7,8,Mar
+ORD10239,11/02/2025,Vikas,Cookbook,Books,Gujrat,TechStore,Cash,12104,8,4.8,5,Feb
+ORD10240,09/07/2025,Divya,AirPods Pro,Electronics,Karnataka,BookWorld,Card,111030,3,3.7,5,Jul
+ORD10241,05/10/2025,Naveen,Face Wash,Beauty,Gujrat,TechStore,Cash,10549,7,4.7,7,Oct
+ORD10242,10/02/2025,Arjun,Jeans,Fashion,Maharashtra,BookWorld,Cash,37653,7,4.6,3,Feb
+ORD10243,06/03/2025,Sneha,Python Book,Books,Gujrat,BeautyCare,Card,570,1,3.5,5,Mar
+ORD10244,10/10/2025,Arjun,Watch,Fashion,Maharashtra,BookWorld,Cash,4806,6,4.3,7,Oct
+ORD10245,24/02/2025,Divya,Chair,Home,Tamil Nadu,TechStore,Card,10254,2,3.9,8,Feb
+ORD10246,26/07/2025,Sanjay,Cookbook,Books,Telangana,HomeMart,Card,5685,3,4.4,1,Jul
+ORD10247,09/06/2025,Sneha,MacBook Air,Electronics,Telangana,TechStore,Card,161890,5,5,8,Jun
+ORD10248,19/04/2025,Rahul,Business Book,Books,Gujrat,TechStore,Cash,16555,7,4.6,2,Apr
+ORD10249,30/03/2025,Ria,Chair,Home,Telangana,HomeMart,UPI,33112,4,3.3,6,Mar
+ORD10250,22/11/2025,Sanjay,Lamp,Home,Tamil Nadu,HomeMart,Net Banking,17616,2,4.3,3,Nov
+ORD10251,19/12/2025,Aman,Cookbook,Books,Gujrat,BookWorld,Cash,724,2,4.7,4,Dec
+ORD10252,20/09/2025,Aman,AirPods Pro,Electronics,Telangana,HomeMart,Net Banking,64640,1,3.5,1,Sep
+ORD10253,28/06/2025,Divya,Watch,Fashion,Karnataka,BeautyCare,Net Banking,25400,8,4.1,7,Jun
+ORD10254,02/06/2025,Priya,Bedsheet,Home,Gujrat,HomeMart,Cash,22590,2,3.8,5,Jun
+ORD10255,30/01/2025,Priya,Python Book,Books,Maharashtra,TechStore,UPI,10913,7,4.1,5,Jan
+ORD10256,25/06/2025,Naveen,Perfume,Beauty,Delhi,HomeMart,Card,6820,4,3.7,3,Jun
+ORD10257,13/05/2025,Vijay,T-Shirt,Fashion,Telangana,HomeMart,Net Banking,7560,3,3.6,5,May
+ORD10258,26/08/2025,Pooja,Bedsheet,Home,Karnataka,TechStore,Net Banking,21936,2,3.3,4,Aug
+ORD10259,19/03/2025,Vikas,Shoes,Fashion,Maharashtra,HomeMart,Cash,16092,3,3.5,3,Mar
+ORD10260,03/01/2025,Ali,Laptop,Electronics,Tamil Nadu,TechStore,UPI,196792,8,4.1,2,Jan
+ORD10261,02/09/2025,Pooja,Watch,Fashion,Delhi,BeautyCare,Card,16331,7,4.9,6,Sep
+ORD10262,22/12/2025,Vikas,Python Book,Books,Karnataka,HomeMart,Net Banking,4668,6,4.3,3,Dec
+ORD10263,11/08/2025,Rohit,Jeans,Fashion,Delhi,BookWorld,Cash,6729,3,4.9,7,Aug
+ORD10264,29/10/2025,Akash,Novel,Books,Karnataka,BeautyCare,Card,5253,3,3.7,1,Oct
+ORD10265,02/08/2025,Rohit,Shampoo,Beauty,Telangana,TechStore,Card,8624,8,4.5,4,Aug
+ORD10266,15/11/2025,Sanjay,Bedsheet,Home,Delhi,BookWorld,Net Banking,8184,3,3.7,2,Nov
+ORD10267,03/07/2025,Sneha,Mixer,Home,Delhi,BeautyCare,Card,62524,7,4.8,8,Jul
+ORD10268,21/10/2025,Meena,Shampoo,Beauty,Telangana,HomeMart,UPI,4840,8,4.8,4,Oct
+ORD10269,31/03/2025,Rohit,Shampoo,Beauty,Delhi,BookWorld,Net Banking,895,1,3.4,1,Mar
+ORD10270,15/11/2025,Priya,AirPods Pro,Electronics,Maharashtra,TechStore,UPI,237105,5,3.9,8,Nov
+ORD10271,09/03/2025,Kavya,Novel,Books,Tamil Nadu,TechStore,Net Banking,674,1,4.6,8,Mar
+ORD10272,17/12/2025,Sneha,Chair,Home,Karnataka,BookWorld,Net Banking,24060,3,3.3,5,Dec
+ORD10273,10/08/2025,Rohit,Chair,Home,Gujrat,BookWorld,UPI,39788,4,4.8,1,Aug
+ORD10274,08/02/2025,Anjali,T-Shirt,Fashion,Delhi,BeautyCare,UPI,23824,8,4.1,7,Feb
+ORD10275,15/02/2025,Vijay,Watch,Fashion,Karnataka,BeautyCare,Card,38192,8,3.2,7,Feb
+ORD10276,18/09/2025,Sneha,Bedsheet,Home,Tamil Nadu,TechStore,Net Banking,6756,4,4.7,8,Sep
+ORD10277,19/02/2025,Arjun,Shoes,Fashion,Karnataka,BookWorld,UPI,23560,4,4.2,6,Feb
+ORD10278,24/02/2025,Sneha,Business Book,Books,Karnataka,TechStore,Card,5260,5,3.6,4,Feb
+ORD10279,19/08/2025,Naveen,Chair,Home,Maharashtra,TechStore,Cash,6968,8,4.2,1,Aug
+ORD10280,07/03/2025,Priya,Mixer,Home,Maharashtra,HomeMart,Net Banking,15318,2,5,4,Mar
+ORD10281,12/03/2025,Ria,T-Shirt,Fashion,Delhi,HomeMart,Net Banking,36309,7,4.5,4,Mar
+ORD10282,15/09/2025,Naveen,Python Book,Books,Telangana,TechStore,Card,4332,6,4.2,7,Sep
+ORD10283,13/01/2025,Rahul,Chair,Home,Gujrat,HomeMart,Cash,36218,7,4.6,3,Jan
+ORD10284,15/04/2025,Naveen,Face Wash,Beauty,Maharashtra,BookWorld,Net Banking,1034,1,4.5,4,Apr
+ORD10285,18/07/2025,Akash,Lipstick,Beauty,Maharashtra,BookWorld,Net Banking,11921,7,4.5,4,Jul
+ORD10286,10/04/2025,Anjali,Mixer,Home,Karnataka,TechStore,Net Banking,18235,5,4.5,2,Apr
+ORD10287,08/03/2025,Neha,Bedsheet,Home,Delhi,HomeMart,Card,25320,3,4.5,3,Mar
+ORD10288,09/09/2025,Vijay,Bedsheet,Home,Tamil Nadu,TechStore,Card,22872,6,4.1,3,Sep
+ORD10289,20/04/2025,Arjun,iPhone 15,Electronics,Gujrat,HomeMart,UPI,245874,6,4.2,1,Apr
+ORD10290,21/01/2025,Pooja,Python Book,Books,Telangana,TechStore,UPI,4284,6,4.5,1,Jan
+ORD10291,30/11/2025,Vikas,Face Wash,Beauty,Delhi,BookWorld,UPI,3824,4,4.9,1,Nov
+ORD10292,03/10/2025,Vikas,Perfume,Beauty,Karnataka,BeautyCare,Cash,11368,7,4.5,1,Oct
+ORD10293,06/02/2025,Rohit,Sony Headphones,Electronics,Maharashtra,BeautyCare,Card,213440,4,3.9,6,Feb
+ORD10294,27/10/2025,Akash,Chair,Home,Karnataka,HomeMart,UPI,2538,1,3.7,5,Oct
+ORD10295,05/12/2025,Ali,Watch,Fashion,Telangana,HomeMart,Card,2501,1,4.5,5,Dec
+ORD10296,05/03/2025,Ria,Mixer,Home,Maharashtra,BookWorld,Cash,2194,1,3.7,6,Mar
+ORD10297,12/11/2025,Naveen,Python Book,Books,Karnataka,HomeMart,Card,3595,5,4.7,8,Nov
+ORD10298,12/04/2025,Ria,Laptop,Electronics,Telangana,TechStore,UPI,154440,8,3.7,2,Apr
+ORD10299,04/12/2025,Kavya,Sony Headphones,Electronics,Karnataka,HomeMart,Cash,383140,5,4.7,7,Dec
+ORD10300,22/05/2025,Sanjay,Business Book,Books,Tamil Nadu,BeautyCare,Cash,9648,6,3.8,5,May
+ORD10301,24/05/2025,Pooja,Chair,Home,Gujrat,BeautyCare,UPI,6156,3,4.5,1,May
+ORD10302,19/01/2025,Ali,Mixer,Home,Maharashtra,BeautyCare,UPI,33965,5,3.9,5,Jan
+ORD10303,06/01/2025,Sanjay,Sony Headphones,Electronics,Telangana,BeautyCare,Cash,279552,4,3.5,3,Jan
+ORD10304,02/02/2025,Anjali,T-Shirt,Fashion,Maharashtra,TechStore,Card,11965,5,4.8,6,Feb
+ORD10305,22/02/2025,Divya,Face Wash,Beauty,Gujrat,BeautyCare,Net Banking,4195,5,4.4,6,Feb
+ORD10306,22/09/2025,Meena,T-Shirt,Fashion,Delhi,BookWorld,Card,32543,7,3.2,3,Sep
+ORD10307,19/04/2025,Sneha,Bedsheet,Home,Gujrat,BeautyCare,UPI,8214,3,4.4,7,Apr
+ORD10308,18/04/2025,Ali,Watch,Fashion,Gujrat,BeautyCare,Cash,8088,3,3.4,3,Apr
+ORD10309,13/05/2025,Vikas,Perfume,Beauty,Delhi,TechStore,UPI,4074,3,3.2,5,May
+ORD10310,23/04/2025,Kavya,T-Shirt,Fashion,Gujrat,HomeMart,UPI,15323,7,4.4,5,Apr
+ORD10311,28/04/2025,Ali,Chair,Home,Tamil Nadu,BeautyCare,Cash,28805,7,4.1,7,Apr
+ORD10312,30/09/2025,Pooja,Shoes,Fashion,Maharashtra,HomeMart,Card,11286,2,4.7,7,Sep
+ORD10313,28/04/2025,Sanjay,Lamp,Home,Delhi,BeautyCare,Net Banking,19200,8,4,5,Apr
+ORD10314,12/05/2025,Ria,Lamp,Home,Gujrat,HomeMart,UPI,10920,4,4.1,7,May
+ORD10315,21/03/2025,Anjali,Laptop,Electronics,Delhi,TechStore,UPI,257243,7,4.2,5,Mar
+ORD10316,14/10/2025,Aman,Cookbook,Books,Maharashtra,BookWorld,Card,12048,8,4.5,2,Oct
+ORD10317,23/06/2025,Vikas,Business Book,Books,Karnataka,HomeMart,Cash,1843,1,4,7,Jun
+ORD10318,08/11/2025,Kavya,Laptop,Electronics,Gujrat,TechStore,UPI,55013,1,4.1,1,Nov
+ORD10319,03/12/2025,Neha,Perfume,Beauty,Telangana,BookWorld,Card,3490,5,4.5,3,Dec
+ORD10320,22/05/2025,Vikas,Novel,Books,Tamil Nadu,HomeMart,Net Banking,13076,7,4.1,2,May
+ORD10321,26/04/2025,Naveen,MacBook Air,Electronics,Karnataka,HomeMart,Net Banking,311416,4,3.5,2,Apr
+ORD10322,03/10/2025,Meena,Face Wash,Beauty,Gujrat,TechStore,Card,8605,5,4.6,6,Oct
+ORD10323,13/05/2025,Priya,Shoes,Fashion,Delhi,HomeMart,Card,6572,2,4.9,1,May
+ORD10324,08/02/2025,Sanjay,Jeans,Fashion,Gujrat,BookWorld,Cash,7470,3,3.7,4,Feb
+ORD10325,16/04/2025,Vikas,Cookbook,Books,Gujrat,TechStore,Card,5088,4,4.6,2,Apr
+ORD10326,04/09/2025,Anjali,Chair,Home,Delhi,BookWorld,Card,31806,6,4.1,5,Sep
+ORD10327,02/09/2025,Sneha,Lamp,Home,Gujrat,BeautyCare,Card,8290,1,5,8,Sep
+ORD10328,25/10/2025,Priya,Business Book,Books,Maharashtra,HomeMart,Net Banking,3462,2,4.2,4,Oct
+ORD10329,06/08/2025,Divya,Business Book,Books,Gujrat,BookWorld,Card,7096,4,4,3,Aug
+ORD10330,12/10/2025,Vijay,iPhone 15,Electronics,Maharashtra,BookWorld,Net Banking,151312,7,4.7,3,Oct
+ORD10331,09/05/2025,Arjun,Jeans,Fashion,Maharashtra,HomeMart,Net Banking,1191,1,4.7,8,May
+ORD10332,14/10/2025,Divya,MacBook Air,Electronics,Tamil Nadu,BookWorld,Net Banking,282350,5,4.8,4,Oct
+ORD10333,11/12/2025,Kavya,MacBook Air,Electronics,Gujrat,HomeMart,UPI,419576,8,4,3,Dec
+ORD10334,06/02/2025,Akash,Lamp,Home,Gujrat,TechStore,Net Banking,11982,2,4.4,5,Feb
+ORD10335,28/10/2025,Vikas,Jeans,Fashion,Delhi,BookWorld,UPI,7112,8,4.5,5,Oct
+ORD10336,02/02/2025,Arjun,Shampoo,Beauty,Telangana,BookWorld,Card,11384,8,4.6,2,Feb
+ORD10337,28/04/2025,Rohit,Jeans,Fashion,Karnataka,HomeMart,Net Banking,6940,4,4.1,3,Apr
+ORD10338,04/10/2025,Divya,Watch,Fashion,Maharashtra,HomeMart,Net Banking,25585,5,4.3,8,Oct
+ORD10339,15/02/2025,Pooja,T-Shirt,Fashion,Delhi,HomeMart,Net Banking,22624,8,3.7,1,Feb
+ORD10340,19/12/2025,Naveen,Shoes,Fashion,Telangana,BookWorld,UPI,33808,8,4.3,1,Dec
+ORD10341,22/07/2025,Pooja,Lamp,Home,Tamil Nadu,HomeMart,Net Banking,20432,4,3.3,4,Jul
+ORD10342,31/07/2025,Priya,Bedsheet,Home,Gujrat,TechStore,Cash,10432,4,4.3,8,Jul
+ORD10343,19/03/2025,Rohit,Laptop,Electronics,Delhi,BeautyCare,Cash,26871,1,3.7,8,Mar
+ORD10344,22/04/2025,Sneha,Lipstick,Beauty,Karnataka,BookWorld,Card,6960,6,4.5,1,Apr
+ORD10345,06/02/2025,Anjali,AirPods Pro,Electronics,Maharashtra,BookWorld,Card,282224,8,3.4,4,Feb
+ORD10346,18/02/2025,Naveen,Business Book,Books,Tamil Nadu,BeautyCare,Net Banking,7372,4,4.3,1,Feb
+ORD10347,12/04/2025,Kavya,Jeans,Fashion,Telangana,BeautyCare,UPI,15798,6,4,1,Apr
+ORD10348,22/01/2025,Akash,Novel,Books,Telangana,BeautyCare,Card,7072,8,3.5,2,Jan
+ORD10349,26/12/2025,Meena,iPhone 15,Electronics,Gujrat,BookWorld,Card,65994,2,4.6,6,Dec
+ORD10350,10/03/2025,Ria,Jeans,Fashion,Tamil Nadu,BookWorld,Net Banking,26395,5,4.2,8,Mar
+ORD10351,21/05/2025,Meena,AirPods Pro,Electronics,Karnataka,TechStore,Cash,68457,3,4.7,6,May
+ORD10352,14/11/2025,Naveen,Face Wash,Beauty,Delhi,HomeMart,Net Banking,3824,4,4.1,8,Nov
+ORD10353,26/02/2025,Arjun,Jeans,Fashion,Maharashtra,BookWorld,Card,3526,2,4.8,4,Feb
+ORD10354,03/12/2025,Rohit,Lipstick,Beauty,Delhi,TechStore,Card,11008,8,4.3,2,Dec
+ORD10355,04/07/2025,Rahul,Shoes,Fashion,Karnataka,BookWorld,Card,20139,7,3.3,2,Jul
+ORD10356,30/09/2025,Naveen,Perfume,Beauty,Gujrat,TechStore,Card,4816,7,4.3,3,Sep
+ORD10357,12/12/2025,Kavya,Bedsheet,Home,Tamil Nadu,TechStore,Net Banking,30040,8,4.2,6,Dec
+ORD10358,16/06/2025,Anjali,Sony Headphones,Electronics,Tamil Nadu,HomeMart,Net Banking,269370,6,4.2,4,Jun
+ORD10359,23/07/2025,Rohit,Watch,Fashion,Telangana,BookWorld,Cash,5580,1,4.1,5,Jul
+ORD10360,20/12/2025,Meena,Laptop,Electronics,Telangana,BookWorld,Cash,377090,5,3.5,1,Dec
+ORD10361,26/10/2025,Vikas,MacBook Air,Electronics,Gujrat,HomeMart,UPI,167444,4,3.9,4,Oct
+ORD10362,20/12/2025,Sneha,Business Book,Books,Telangana,TechStore,UPI,2960,2,3.3,1,Dec
+ORD10363,01/12/2025,Sneha,Perfume,Beauty,Tamil Nadu,BookWorld,Cash,1598,1,3.3,3,Dec
+ORD10364,17/08/2025,Sanjay,Lipstick,Beauty,Tamil Nadu,BeautyCare,UPI,1508,2,3.4,2,Aug
+ORD10365,24/07/2025,Divya,Laptop,Electronics,Delhi,BookWorld,Cash,141239,7,3.6,7,Jul
+ORD10366,09/08/2025,Sneha,Face Wash,Beauty,Telangana,BeautyCare,Net Banking,10212,6,3.9,4,Aug
+ORD10367,12/11/2025,Ali,Cookbook,Books,Gujrat,BeautyCare,Card,6776,8,3.6,6,Nov
+ORD10368,14/11/2025,Sneha,Perfume,Beauty,Delhi,BookWorld,Cash,2667,3,4,1,Nov
+ORD10369,08/10/2025,Priya,Bedsheet,Home,Delhi,BeautyCare,Net Banking,82808,8,4.8,1,Oct
+ORD10370,28/01/2025,Arjun,Cookbook,Books,Karnataka,HomeMart,UPI,2272,8,3.7,6,Jan
+ORD10371,18/09/2025,Naveen,Business Book,Books,Gujrat,BeautyCare,Card,4470,2,3.5,8,Sep
+ORD10372,20/06/2025,Aman,Cookbook,Books,Tamil Nadu,HomeMart,Card,7144,8,3.8,5,Jun
+ORD10373,16/01/2025,Pooja,AirPods Pro,Electronics,Gujrat,BookWorld,UPI,236490,5,3.4,7,Jan
+ORD10374,07/08/2025,Divya,Python Book,Books,Tamil Nadu,BookWorld,Cash,7990,5,3.6,3,Aug
+ORD10375,11/03/2025,Kavya,Sony Headphones,Electronics,Telangana,BookWorld,Card,308798,7,4.2,2,Mar
+ORD10376,30/07/2025,Akash,AirPods Pro,Electronics,Tamil Nadu,HomeMart,Cash,112085,5,3.4,1,Jul
+ORD10377,29/04/2025,Kiran,Mixer,Home,Delhi,TechStore,UPI,9030,1,4.7,8,Apr
+ORD10378,25/03/2025,Ria,T-Shirt,Fashion,Delhi,BeautyCare,Cash,3288,4,4.9,4,Mar
+ORD10379,19/12/2025,Sneha,Watch,Fashion,Maharashtra,BeautyCare,Card,24096,6,4.3,7,Dec
+ORD10380,22/01/2025,Ria,Watch,Fashion,Telangana,TechStore,UPI,4084,4,3.9,1,Jan
+ORD10381,25/08/2025,Meena,MacBook Air,Electronics,Karnataka,BeautyCare,Cash,248592,3,4.8,8,Aug
+ORD10382,21/07/2025,Meena,Mixer,Home,Karnataka,HomeMart,Net Banking,57631,7,4.3,4,Jul
+ORD10383,16/02/2025,Anjali,Novel,Books,Tamil Nadu,TechStore,Card,4180,2,4.5,3,Feb
+ORD10384,17/10/2025,Rahul,Cookbook,Books,Gujrat,BookWorld,Card,2526,3,3.8,8,Oct
+ORD10385,02/01/2025,Aman,Python Book,Books,Delhi,TechStore,UPI,10640,5,4.7,8,Jan
+ORD10386,10/02/2025,Neha,Watch,Fashion,Delhi,BookWorld,Card,5777,1,4.2,4,Feb
+ORD10387,16/03/2025,Kavya,Laptop,Electronics,Gujrat,HomeMart,Cash,45899,1,3.4,3,Mar
+ORD10388,19/01/2025,Rahul,Jeans,Fashion,Maharashtra,BookWorld,Card,7608,2,4.6,2,Jan
+ORD10389,27/09/2025,Sanjay,MacBook Air,Electronics,Gujrat,HomeMart,UPI,209300,7,3.4,2,Sep
+ORD10390,13/05/2025,Akash,Bedsheet,Home,Delhi,HomeMart,Cash,53724,6,4.1,3,May
+ORD10391,13/01/2025,Kiran,Shampoo,Beauty,Tamil Nadu,BookWorld,Card,12640,8,3.9,6,Jan
+ORD10392,11/05/2025,Sneha,Cookbook,Books,Telangana,TechStore,Card,2958,2,4.6,2,May
+ORD10393,19/06/2025,Meena,Python Book,Books,Tamil Nadu,HomeMart,UPI,13272,6,3.4,3,Jun
+ORD10394,24/09/2025,Kiran,Shoes,Fashion,Karnataka,BookWorld,Net Banking,25445,5,3.6,6,Sep
+ORD10395,12/07/2025,Sneha,Face Wash,Beauty,Gujrat,BeautyCare,Net Banking,4407,3,4.8,5,Jul
+ORD10396,12/09/2025,Kiran,Shoes,Fashion,Karnataka,BookWorld,Card,9880,4,3.7,2,Sep
+ORD10397,05/09/2025,Arjun,Shoes,Fashion,Tamil Nadu,BookWorld,Cash,14967,3,4.6,3,Sep
+ORD10398,18/07/2025,Arjun,Lipstick,Beauty,Tamil Nadu,HomeMart,Card,616,2,3.8,1,Jul
+ORD10399,24/11/2025,Arjun,Bedsheet,Home,Telangana,BookWorld,Cash,21328,4,4.2,8,Nov
+ORD10400,08/01/2025,Divya,Laptop,Electronics,Delhi,BookWorld,Card,96832,2,3.7,5,Jan
+ORD10401,23/06/2025,Neha,Sony Headphones,Electronics,Karnataka,TechStore,UPI,50400,8,3.3,7,Jun
+ORD10402,12/11/2025,Divya,Business Book,Books,Delhi,BeautyCare,UPI,9666,6,5,8,Nov
+ORD10403,08/06/2025,Anjali,Lipstick,Beauty,Delhi,HomeMart,Net Banking,10104,8,3.7,6,Jun
+ORD10404,16/01/2025,Kiran,Watch,Fashion,Tamil Nadu,BookWorld,Card,9242,2,4.7,5,Jan
+ORD10405,16/06/2025,Naveen,Shoes,Fashion,Delhi,TechStore,UPI,7966,2,3.9,4,Jun
+ORD10406,17/04/2025,Divya,Face Wash,Beauty,Maharashtra,BeautyCare,UPI,8337,7,4.4,2,Apr
+ORD10407,19/02/2025,Sneha,Sony Headphones,Electronics,Maharashtra,BeautyCare,Card,445504,8,3.4,7,Feb
+ORD10408,25/10/2025,Ria,Python Book,Books,Delhi,HomeMart,Net Banking,861,1,3.9,8,Oct
+ORD10409,11/08/2025,Neha,Bedsheet,Home,Telangana,BeautyCare,Card,44532,6,4.7,5,Aug
+ORD10410,26/02/2025,Anjali,Bedsheet,Home,Maharashtra,TechStore,Cash,36295,5,4.3,7,Feb
+ORD10411,13/03/2025,Ali,Business Book,Books,Karnataka,BeautyCare,Card,7300,4,3.7,3,Mar
+ORD10412,03/12/2025,Akash,Business Book,Books,Delhi,TechStore,UPI,4172,7,4.7,7,Dec
+ORD10413,16/07/2025,Pooja,Lamp,Home,Telangana,TechStore,Net Banking,5526,6,4.2,4,Jul
+ORD10414,18/10/2025,Ali,Shampoo,Beauty,Gujrat,HomeMart,UPI,13944,8,4.9,2,Oct
+ORD10415,25/09/2025,Akash,Chair,Home,Karnataka,HomeMart,Card,19268,2,4.6,5,Sep
+ORD10416,20/09/2025,Akash,Watch,Fashion,Gujrat,HomeMart,Net Banking,28728,8,3.7,1,Sep
+ORD10417,24/10/2025,Ali,Lipstick,Beauty,Tamil Nadu,BeautyCare,Net Banking,4419,3,3.7,2,Oct
+ORD10418,12/11/2025,Meena,iPhone 15,Electronics,Telangana,BookWorld,Net Banking,21805,5,3.5,3,Nov
+ORD10419,03/04/2025,Anjali,Business Book,Books,Delhi,TechStore,Cash,595,1,4.7,7,Apr
+ORD10420,28/01/2025,Naveen,Cookbook,Books,Delhi,TechStore,UPI,2325,5,4.1,8,Jan
+ORD10421,16/03/2025,Arjun,Jeans,Fashion,Tamil Nadu,HomeMart,UPI,26803,7,3.8,1,Mar
+ORD10422,21/06/2025,Divya,Bedsheet,Home,Delhi,HomeMart,Cash,36040,5,4,4,Jun
+ORD10423,06/01/2025,Kiran,Sony Headphones,Electronics,Delhi,HomeMart,Net Banking,56403,1,3.4,8,Jan
+ORD10424,13/01/2025,Vikas,Novel,Books,Tamil Nadu,BookWorld,UPI,2276,2,4.5,2,Jan
+ORD10425,26/02/2025,Vijay,Mixer,Home,Gujrat,HomeMart,Net Banking,33795,3,4,5,Feb
+ORD10426,22/05/2025,Kavya,Novel,Books,Maharashtra,BeautyCare,UPI,1841,1,4.9,5,May
+ORD10427,02/04/2025,Meena,Business Book,Books,Gujrat,HomeMart,Card,6712,8,4.3,2,Apr
+ORD10428,06/02/2025,Anjali,Shampoo,Beauty,Telangana,BookWorld,Net Banking,6065,5,4.4,1,Feb
+ORD10429,21/09/2025,Sanjay,Shoes,Fashion,Karnataka,HomeMart,Net Banking,10192,8,3.6,7,Sep
+ORD10430,29/01/2025,Ria,AirPods Pro,Electronics,Delhi,BeautyCare,UPI,94144,2,4.6,5,Jan
+ORD10431,23/12/2025,Ali,Cookbook,Books,Karnataka,BookWorld,Card,12047,7,4,4,Dec
+ORD10432,08/09/2025,Rohit,Mixer,Home,Karnataka,HomeMart,Card,66836,7,4.9,8,Sep
+ORD10433,27/07/2025,Vikas,Laptop,Electronics,Karnataka,BookWorld,UPI,125158,2,4.5,4,Jul
+ORD10434,13/11/2025,Arjun,Lipstick,Beauty,Maharashtra,BookWorld,Card,797,1,3.3,5,Nov
+ORD10435,12/09/2025,Divya,Shampoo,Beauty,Tamil Nadu,BookWorld,Net Banking,1716,4,3.9,2,Sep
+ORD10436,31/10/2025,Kiran,Novel,Books,Tamil Nadu,BookWorld,UPI,1524,3,4.6,3,Oct
+ORD10437,10/03/2025,Kavya,Novel,Books,Karnataka,HomeMart,UPI,3580,2,3.3,1,Mar
+ORD10438,16/04/2025,Akash,T-Shirt,Fashion,Gujrat,BeautyCare,Cash,13167,3,3.6,3,Apr
+ORD10439,18/11/2025,Akash,Shoes,Fashion,Telangana,BookWorld,UPI,26340,5,3.5,2,Nov
+ORD10440,28/01/2025,Neha,Cookbook,Books,Gujrat,HomeMart,Net Banking,3444,4,3.5,1,Jan
+ORD10441,09/05/2025,Kavya,Business Book,Books,Karnataka,TechStore,Card,12636,6,4.9,3,May
+ORD10442,16/08/2025,Aman,Perfume,Beauty,Gujrat,TechStore,Cash,6948,6,3.8,2,Aug
+ORD10443,07/02/2025,Kavya,T-Shirt,Fashion,Maharashtra,HomeMart,Cash,34160,8,3.6,8,Feb
+ORD10444,20/11/2025,Priya,T-Shirt,Fashion,Delhi,BeautyCare,UPI,10452,6,4.4,1,Nov
+ORD10445,29/03/2025,Divya,Watch,Fashion,Tamil Nadu,BookWorld,Card,11904,6,4.9,3,Mar
+ORD10446,21/04/2025,Divya,Watch,Fashion,Delhi,BookWorld,Card,33656,8,3.6,7,Apr
+ORD10447,21/01/2025,Meena,Shoes,Fashion,Maharashtra,BookWorld,Card,40400,8,4.1,2,Jan
+ORD10448,21/12/2025,Rohit,Chair,Home,Maharashtra,HomeMart,Cash,33012,7,4.4,2,Dec
+ORD10449,21/08/2025,Vikas,Shoes,Fashion,Maharashtra,HomeMart,Card,29872,8,4,1,Aug
+ORD10450,19/05/2025,Neha,AirPods Pro,Electronics,Karnataka,TechStore,Net Banking,335296,4,4.1,6,May
+ORD10451,07/07/2025,Naveen,Shoes,Fashion,Karnataka,TechStore,Cash,14262,6,5,4,Jul
+ORD10452,30/06/2025,Sanjay,Cookbook,Books,Tamil Nadu,BeautyCare,UPI,9910,5,3.9,8,Jun
+ORD10453,20/08/2025,Rahul,Bedsheet,Home,Karnataka,BeautyCare,Cash,13380,6,3.3,3,Aug
+ORD10454,23/12/2025,Naveen,Laptop,Electronics,Delhi,TechStore,Net Banking,87816,3,3.2,7,Dec
+ORD10455,27/11/2025,Vijay,Watch,Fashion,Tamil Nadu,HomeMart,Net Banking,880,1,4.7,6,Nov
+ORD10456,23/08/2025,Rahul,Watch,Fashion,Karnataka,BookWorld,Net Banking,10530,5,3.6,6,Aug
+ORD10457,27/03/2025,Kavya,AirPods Pro,Electronics,Delhi,BeautyCare,Card,119661,3,4.7,3,Mar
+ORD10458,06/03/2025,Kiran,Sony Headphones,Electronics,Delhi,HomeMart,UPI,213456,8,4.5,6,Mar
+ORD10459,01/10/2025,Ali,Mixer,Home,Karnataka,HomeMart,Net Banking,15905,5,4.9,6,Oct
+ORD10460,21/10/2025,Naveen,Jeans,Fashion,Karnataka,HomeMart,Card,4860,3,4.8,3,Oct
+ORD10461,17/08/2025,Priya,T-Shirt,Fashion,Delhi,BeautyCare,Card,34086,6,3.6,4,Aug
+ORD10462,13/12/2025,Kiran,Lamp,Home,Maharashtra,BookWorld,UPI,12012,2,4.3,1,Dec
+ORD10463,10/07/2025,Ria,AirPods Pro,Electronics,Gujrat,TechStore,UPI,48552,1,4.8,2,Jul
+ORD10464,25/03/2025,Rahul,Jeans,Fashion,Maharashtra,HomeMart,Card,38570,7,3.4,4,Mar
+ORD10465,15/02/2025,Ria,Lamp,Home,Delhi,TechStore,Net Banking,9906,1,4,3,Feb
+ORD10466,22/01/2025,Ali,Lamp,Home,Telangana,HomeMart,UPI,41965,5,3.6,1,Jan
+ORD10467,02/08/2025,Akash,Face Wash,Beauty,Gujrat,HomeMart,UPI,3921,3,4.1,2,Aug
+ORD10468,13/05/2025,Kavya,Lamp,Home,Tamil Nadu,BeautyCare,Cash,81800,8,3.2,5,May
+ORD10469,21/12/2025,Neha,AirPods Pro,Electronics,Telangana,HomeMart,Card,28296,3,4,6,Dec
+ORD10470,18/11/2025,Priya,Mixer,Home,Gujrat,HomeMart,Card,17940,3,4.7,5,Nov
+ORD10471,15/03/2025,Arjun,Bedsheet,Home,Delhi,BookWorld,Cash,8744,1,3.9,3,Mar
+ORD10472,02/08/2025,Ali,Novel,Books,Maharashtra,HomeMart,Cash,5816,8,3.8,6,Aug
+ORD10473,02/03/2025,Vijay,Laptop,Electronics,Gujrat,BeautyCare,Card,128788,4,3.6,2,Mar
+ORD10474,09/08/2025,Priya,Lipstick,Beauty,Karnataka,BeautyCare,Net Banking,702,1,3.3,2,Aug
+ORD10475,05/03/2025,Divya,Shampoo,Beauty,Telangana,HomeMart,Cash,6012,4,3.4,5,Mar
+ORD10476,16/09/2025,Naveen,Mixer,Home,Karnataka,BeautyCare,Cash,7876,2,4.9,3,Sep
+ORD10477,07/07/2025,Vijay,Lamp,Home,Karnataka,HomeMart,Card,21057,3,4,4,Jul
+ORD10478,24/09/2025,Arjun,Shoes,Fashion,Maharashtra,HomeMart,UPI,15792,3,3.3,8,Sep
+ORD10479,18/12/2025,Kiran,Bedsheet,Home,Delhi,BeautyCare,UPI,31144,8,4.7,8,Dec
+ORD10480,13/08/2025,Vikas,Lipstick,Beauty,Telangana,BookWorld,Net Banking,1088,2,5,3,Aug
+ORD10481,04/03/2025,Kiran,Business Book,Books,Maharashtra,TechStore,UPI,9176,4,3.7,7,Mar
+ORD10482,17/03/2025,Rohit,Bedsheet,Home,Karnataka,BeautyCare,Card,71576,8,3.6,3,Mar
+ORD10483,02/04/2025,Pooja,Shoes,Fashion,Maharashtra,TechStore,Cash,22260,7,4.3,2,Apr
+ORD10484,09/09/2025,Vijay,AirPods Pro,Electronics,Karnataka,TechStore,UPI,366740,5,4.9,1,Sep
+ORD10485,15/08/2025,Kavya,AirPods Pro,Electronics,Maharashtra,TechStore,Cash,205456,8,4.7,5,Aug
+ORD10486,07/09/2025,Pooja,AirPods Pro,Electronics,Karnataka,TechStore,Net Banking,150170,2,4,3,Sep
+ORD10487,12/11/2025,Kiran,Watch,Fashion,Gujrat,BeautyCare,Net Banking,5580,6,3.3,6,Nov
+ORD10488,08/08/2025,Rahul,Shoes,Fashion,Tamil Nadu,BeautyCare,Card,6972,6,3.6,4,Aug
+ORD10489,22/06/2025,Divya,Laptop,Electronics,Tamil Nadu,TechStore,Net Banking,135732,3,4.4,7,Jun
+ORD10490,29/10/2025,Arjun,Lipstick,Beauty,Gujrat,BookWorld,Net Banking,948,1,4.2,8,Oct
+ORD10491,27/03/2025,Naveen,Jeans,Fashion,Delhi,HomeMart,Net Banking,23855,5,4.7,2,Mar
+ORD10492,21/10/2025,Divya,Face Wash,Beauty,Tamil Nadu,TechStore,UPI,5334,7,3.8,2,Oct
+ORD10493,09/02/2025,Priya,Cookbook,Books,Tamil Nadu,TechStore,Cash,7390,5,3.6,7,Feb
+ORD10494,23/10/2025,Divya,Perfume,Beauty,Gujrat,BeautyCare,Cash,5888,8,4.7,7,Oct
+ORD10495,17/03/2025,Ria,AirPods Pro,Electronics,Maharashtra,HomeMart,Net Banking,238268,4,4.7,2,Mar
+ORD10496,18/12/2025,Meena,Cookbook,Books,Maharashtra,TechStore,UPI,4904,4,3.2,5,Dec
+ORD10497,23/03/2025,Sanjay,Perfume,Beauty,Karnataka,BeautyCare,Card,2895,5,4.2,1,Mar
+ORD10498,02/06/2025,Pooja,Sony Headphones,Electronics,Gujrat,HomeMart,UPI,28672,2,3.6,2,Jun
+ORD10499,04/11/2025,Ali,Perfume,Beauty,Karnataka,BookWorld,Cash,1882,2,4.9,4,Nov
+ORD10500,29/07/2025,Sneha,AirPods Pro,Electronics,Tamil Nadu,TechStore,UPI,333860,5,4.5,2,Jul
